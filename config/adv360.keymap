@@ -90,9 +90,9 @@
 
         layer_off {
             bindings = <
+  &none   &none   &none   &none   &none   &none             &none                                                  &trans   &none   &none   &none   &none   &none   &none
   &none   &none   &none   &none   &none   &none             &none                                                   &none   &none   &none   &none   &none   &none   &none
-  &none   &none   &none   &none   &none   &none             &none                                                   &none   &none   &none   &none   &none   &none   &none
-  &none   &none   &none   &none   &none   &none             &none   &none   &none  &trans  &trans   &none   &none   &none   &none   &none   &none   &none   &none   &none
+  &none   &none   &none   &none   &none   &none             &none   &none   &none  &trans  &trans   &none   &none   &none   &none   &none   &none  &trans   &none   &none
   &none   &none   &none   &none   &none   &none            &trans  &trans   &none  &trans  &trans   &none  &trans  &trans   &none   &none   &none   &none   &none   &none
   &none   &none   &none   &none   &none                     &none   &none   &none                   &none   &none   &none           &none   &none   &none   &none   &none
             >;
