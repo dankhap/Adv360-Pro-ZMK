@@ -49,7 +49,7 @@
  &trans  &trans  &trans  &trans  &trans  &trans  &none                                             &none &trans &trans &trans  &trans &kp PRINTSCREEN   &trans
  &trans  &trans  &trans  &trans  &trans  &trans  &none       &trans  &trans &trans &trans         &trans &trans &trans &trans  &trans          &trans   &trans
  &trans  &trans  &trans  &trans  &trans  &trans                      &trans &trans                       &trans &trans &trans  &trans          &trans   &trans
- &trans  &trans  &trans  &trans  &trans                &trans &trans &trans &trans &trans  &tran                &trans &trans  &trans          &trans   &tog 1
+ &trans  &trans  &trans  &trans  &trans                &trans &trans &trans &trans &trans  &trans               &trans &trans  &trans          &trans   &tog 1
             >;
         };
 
